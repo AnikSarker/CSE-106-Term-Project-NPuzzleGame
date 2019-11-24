@@ -1,0 +1,21 @@
+Thanks for playing this game.
+Please follow the following procedures :
+1. Extract the zipped folder "NPuzzleGame".
+2.Enter the folder and find a application named "NPuzzzleGame.exe".
+3.Enjoy the Game.
+
+Warning:
+1. Your PC must have Microsoft Visual Studio installed.
+2. You may not make any change to the ontents of the folder.
+3. Please turn off your antivirus programme.
+4. Your PC must have Windows OS booted.
+
+Apologies :
+  You tried our best to furnish the game nicely. But, we believe your opinion is our best inspiration.
+  So, if you have any comments, please feel free to mail us at :
+	aniksarkerbuet1997@gmail.com
+	rudroarup@gmail.com.
+Hoping your greatest pleasure.
+	Yours sincerly,
+		Anik Sarker, CSE , BUET
+		Arup Barua, CSE , BUET.
